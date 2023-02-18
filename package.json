@@ -1,0 +1,26 @@
+{
+  "name": "ttrpgbot",
+  "version": "1.0.0",
+  "description": "Bot for dices and more",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CanadianDoc/ttrpgBot.git"
+  },
+  "author": "Doc",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CanadianDoc/ttrpgBot/issues"
+  },
+  "homepage": "https://github.com/CanadianDoc/ttrpgBot#readme",
+  "dependencies": {
+    "@discordjs/rest": "^1.5.0",
+    "ascii-table": "^0.0.9",
+    "discord-api-types": "^0.37.34",
+    "discord.js": "^14.7.1",
+    "dotenv": "^16.0.3"
+  }
+}
